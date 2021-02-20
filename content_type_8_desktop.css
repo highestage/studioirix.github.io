@@ -1,0 +1,15 @@
+.content-type-8-row {
+    display: flex;
+}
+.content-type-8-column {
+    margin-top: 100px;
+    flex: 2;
+}
+.content-type-8-column:first-child {
+    background-color: red;
+    margin-right: 85px;
+}
+.content-type-8-column:last-child {
+    background-color: blue;
+    margin-left: 85px;
+}

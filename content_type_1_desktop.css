@@ -1,0 +1,14 @@
+.content-type-1-row {
+    display: flex;
+}
+.content-type-1-column {
+    flex: 2;
+    border-top: 4px solid black;
+    padding: 50px 0 80px 0;
+}
+.content-type-1-column:first-child {
+    margin-right: 80px;
+}
+.content-type-1-column:last-child {
+    margin-left: 80px;
+}

@@ -1,0 +1,34 @@
+.content-type-6-img {
+    background-color: green;
+    width: 980px;
+}
+.content-type-selector-list {
+    background-color: red;
+    display: flex;
+}
+.content-type-selector {
+    flex: auto;
+
+    text-align: center;
+
+    margin-left: 20px;
+    margin-right: 20px;
+
+    font-style: normal;
+    font-weight: 400;
+    color: #ccc;
+
+    cursor: pointer;
+
+    background-color: blue;
+}
+.content-type-selector:hover {
+    color: #66bbff;
+}
+.content-type-6-selected-text {
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    min-height: 200px;
+}
+
