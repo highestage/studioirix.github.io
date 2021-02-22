@@ -19,7 +19,15 @@ a {
 }
 .nav-mobile {
     width: 100%;
+    font-size: 20px;
+    padding: 8px 0;
+    /* height: 100px; */
+    text-align: center;
+    position: fixed;
     overflow: hidden;
+    background-color: rgba(232, 230, 230, 0.5);
+    backdrop-filter: blur(100px);
+    -webkit-backdrop-filter: blur(100px);
 }
 .nav-menu {
     top: 40px;
@@ -44,5 +52,12 @@ a {
     margin-top: 25px;
 }
 .nav-mobile .nav-item:last-of-type {
+    border: none;
+}
+
+.a-btn {
+    margin-top: 10px;
+    background-color: red;
+    border-radius: 4px;
     border: none;
 }
