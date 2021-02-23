@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 116 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Regular-M" transform="matrix(1,0,0,1,-12.4512,80.127)">
+        <path d="M27.783,9.766L112.256,9.766C122.51,9.766 127.588,4.688 127.588,-5.371L127.588,-64.99C127.588,-75.049 122.51,-80.127 112.256,-80.127L27.783,-80.127C17.578,-80.127 12.451,-75.098 12.451,-64.99L12.451,-5.371C12.451,4.736 17.578,9.766 27.783,9.766Z" style="fill:rgb(55,88,255);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1.33991,0,0,1.33991,4.80592,63.7458)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:39.089px;fill:rgb(16,16,16);">PDF</text>
+    </g>
+</svg>
