@@ -1,0 +1,101 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* background-color: rgb(232, 230, 230); */
+    --text-color: #111111;
+    --creative-text-color-1: #888888;
+    /* background-color: black;
+    --text-color: #ffffff;
+    --creative-text-color-1: #888888; */
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: default;
+}
+
+section {
+    max-width: 980px;
+    margin-left: calc(50% - 980px/2);
+}
+#banner-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #66bbff;
+    width: 600px;
+    background-color: red;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 84px;
+    color: var(--text-color);
+}
+h2 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 52px;
+    color: var(--text-color);
+}
+h3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 44px;
+    color: var(--text-color);
+}
+h4 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 36px;
+    color: var(--text-color);
+}
+h5 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: var(--text-color);
+}
+p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    color: var(--text-color);
+}
+
+.group {
+    background-color: orange;
+    margin: 150px 0;
+}
+
+.pro-label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    color: #ef5602;
+    border: 1px solid #ef5602;
+    padding: 6px 15px;
+    border-radius: 4px;
+}
+
+.app-content-type-label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    color: #ef5602;
+    border: 1px solid #ef5602;
+    padding: 6px 15px;
+    border-radius: 4px;
+}
